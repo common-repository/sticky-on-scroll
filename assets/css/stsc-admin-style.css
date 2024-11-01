@@ -1,0 +1,13 @@
+.stsc-form table th{
+	text-align:left;
+	width:40%;
+}
+.stsc-form table th label{ 
+	font-size: 16px;
+}
+.stsc-form table td input{
+	width: 90%;
+}
+.stsc-form h2{
+	font-size: 2em;
+}
